@@ -10,7 +10,7 @@ Paciente: Interactúa vía WhatsApp para agendar, cancelar, reasignar turnos o c
 
 Profesional de la Salud (Médico/Terapeuta): Configura su disponibilidad, supervisa la agenda, define los protocolos de atención y puede intervenir el chat si la IA detecta un caso complejo o una urgencia.
 
-Administrador del Sistema / Desarrollador: Mantiene la infraestructura, monitorea los logs de las conversaciones y ajusta las integraciones.
+# - NO sería un usuario - Administrador del Sistema / Desarrollador: Mantiene la infraestructura, monitorea los logs de las conversaciones y ajusta las integraciones.
 
 2. Datos
 ¿Qué información necesita entrar al sistema para funcionar correctamente?
